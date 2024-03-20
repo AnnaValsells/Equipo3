@@ -1,0 +1,66 @@
+[
+ {
+  "ID PROVEEDORES": "MED-035-CAR",
+  "NOMBRE": "MEDITERRANEO SL.",
+  "CIUDAD": "Cartagena",
+  "DIRECCION": "Calle del Mar menor 35",
+  "TELEFONO COMERCIAL": 865146984,
+  "CORREO COMERCIAL": "juan@mediterraneo.com"
+ },
+ {
+  "ID PROVEEDORES": "CLA-057-MAD",
+  "NOMBRE": "Clavex Solutions SL",
+  "CIUDAD": "Madrid",
+  "DIRECCION": "Calle Clavel 57",
+  "TELEFONO COMERCIAL": 867149994,
+  "CORREO COMERCIAL": "comerciales@clavex.com"
+ },
+ {
+  "ID PROVEEDORES": "RAU-029-COR",
+  "NOMBRE": "Hormigoneras y Volquetes Raul",
+  "CIUDAD": "Cordoba",
+  "DIRECCION": "Calle Mezquita 29",
+  "TELEFONO COMERCIAL": 857144324,
+  "CORREO COMERCIAL": "Raul@volquetesraul.com"
+ },
+ {
+  "ID PROVEEDORES": "LAU-012-LEO",
+  "NOMBRE": "Grupos Electrógenos Laura",
+  "CIUDAD": "León",
+  "DIRECCION": "Calle Azofaifa 12",
+  "TELEFONO COMERCIAL": 878144314,
+  "CORREO COMERCIAL": "Miriam@generadoreslaura.es"
+ },
+ {
+  "ID PROVEEDORES": "TUB-033-VAL",
+  "NOMBRE": "Tuberías y Conexiones S.A.",
+  "CIUDAD": "Valdepeñas",
+  "DIRECCION": "Calle Uva 33",
+  "TELEFONO COMERCIAL": 895142310,
+  "CORREO COMERCIAL": "fontaneria@plastmanch.com"
+ },
+ {
+  "ID PROVEEDORES": "REU-041-DOS",
+  "NOMBRE": "INTERMEDIARIOS DEL PEGAMENTO Y SILICONAS REUNITED",
+  "CIUDAD": "Dos Hermanas",
+  "DIRECCION": "Calle Gordal 41",
+  "TELEFONO COMERCIAL": 475514632,
+  "CORREO COMERCIAL": "josejuan@pegamentos.com"
+ },
+ {
+  "ID PROVEEDORES": "VIG-035-VIG",
+  "NOMBRE": "VIGENSE DE LA MADERA",
+  "CIUDAD": "Vigo",
+  "DIRECCION": "Calle Pinocho 35",
+  "TELEFONO COMERCIAL": 355214631,
+  "CORREO COMERCIAL": "Carmen@viguense.com"
+ },
+ {
+  "ID PROVEEDORES": "WON-003-DOS",
+  "NOMBRE": "Intermediarios del metal Wondershine S.l",
+  "CIUDAD": "Dos Hermanas",
+  "DIRECCION": "Calle Chipiona 3",
+  "TELEFONO COMERCIAL": 56179586,
+  "CORREO COMERCIAL": "maríabarroso@Wondershine.com"
+ }
+]
