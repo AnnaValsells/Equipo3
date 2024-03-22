@@ -1,0 +1,86 @@
+[
+    {
+        "ID PEDIDO PROVEEDOR": "PED-001-MED",
+        "ID PROVEEDOR": "MED-035-CAR",
+        "ID PRODUCTO": "HER-MAN-BEL-001",
+        "CANTIDAD": 7,
+        "PRECIO UNIDAD": 4.90,
+        "PRECIO TOTAL": 34.30,
+        "FECHA PEDIDO": "2024-03-22",
+        "FECHA RECIBIDO": "2024-03-25"
+    },
+    {
+        "ID PEDIDO PROVEEDOR": "PED-002-CLA",
+        "ID PROVEEDOR": "CLA-057-MAD",
+        "ID PRODUCTO": "HER-ELE-BOS-009",
+        "CANTIDAD": 3,
+        "PRECIO UNIDAD": 62.99,
+        "PRECIO TOTAL": 188.97,
+        "FECHA PEDIDO": "2024-03-22",
+        "FECHA RECIBIDO": "2024-03-26"
+    },
+    {
+        "ID PEDIDO PROVEEDOR": "PED-003-LAU",
+        "ID PROVEEDOR": "LAU-012-LEO",
+        "ID PRODUCTO": "FER-ELE-GEL-001",
+        "CANTIDAD": 2,
+        "PRECIO UNIDAD": 630,
+        "PRECIO TOTAL": 1260,
+        "FECHA PEDIDO": "2024-03-22",
+        "FECHA RECIBIDO": "2024-03-25"
+    },
+    {
+        "ID PEDIDO PROVEEDOR": "PED-004-TUB",
+        "ID PROVEEDOR": "TUB-033-VAL",
+        "ID PRODUCTO": "FER-TUB-PVC-006",
+        "CANTIDAD": 5,
+        "PRECIO UNIDAD": 4.20,
+        "PRECIO TOTAL": 21.00,
+        "FECHA PEDIDO": "2024-03-22",
+        "FECHA RECIBIDO": "2024-03-26"
+    },
+    {
+        "ID PEDIDO PROVEEDOR": "PED-005-REU",
+        "ID PROVEEDOR": "REU-041-DOS",
+        "ID PRODUCTO": "FER-PEG-PVC-002",
+        "CANTIDAD": 6,
+        "PRECIO UNIDAD": 6.30,
+        "PRECIO TOTAL": 37.80,
+        "FECHA PEDIDO": "2024-03-22",
+        "FECHA RECIBIDO": "2024-03-25"
+    },
+    {
+        "ID PEDIDO PROVEEDOR": "PED-006-VIG",
+        "ID PROVEEDOR": "VIG-035-VIG",
+        "ID PRODUCTO": "FER-CAR-TAB-MAD-001",
+        "CANTIDAD": 2,
+        "PRECIO UNIDAD": 21.00,
+        "PRECIO TOTAL": 42.00,
+        "FECHA PEDIDO": "2024-03-22",
+        "FECHA RECIBIDO": "2024-03-26"
+    },
+    {
+        "ID PEDIDO PROVEEDOR": "PED-007-WON",
+        "ID PROVEEDOR": "WON-003-DOS",
+        "ID PRODUCTO": "CON-MET-HIE-001",
+        "CANTIDAD": 10,
+        "PRECIO UNIDAD": 1.75,
+        "PRECIO TOTAL": 17.50,
+        "FECHA PEDIDO": "2024-03-22",
+        "FECHA RECIBIDO": "2024-03-25"
+    },
+    {
+        "ID PEDIDO PROVEEDOR": "PED-008-MED",
+        "ID PROVEEDOR": "MED-035-CAR",
+        "ID PRODUCTO": "HER-MAN-BEL-003",
+        "CANTIDAD": 5,
+        "PRECIO UNIDAD": 14.00,
+        "PRECIO TOTAL": 70.00,
+        "FECHA PEDIDO": "2024-03-22",
+        "FECHA RECIBIDO": "2024-03-26"
+    }
+]
+
+        
+    
+

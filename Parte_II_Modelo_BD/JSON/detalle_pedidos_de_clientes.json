@@ -1,0 +1,327 @@
+[
+    {   
+        "IDDETALLE": "001",
+        "IDPEDIDOS": "AMK-MAY-A01",
+        "IDPRODUCTO": "HER-MAN-BEL-001",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "002",
+        "IDPEDIDOS": "CBA-MAY-A01",
+        "IDPRODUCTO": "FER-CAR-TAB-DON-003",
+        "CANTIDAD": "22"
+    },
+    {   
+        "IDDETALLE": "003",
+        "IDPEDIDOS": "CBA-MAY-A01",
+        "IDPRODUCTO": "CON-MET-HIE-001",
+        "CANTIDAD": "10"
+    },
+    {   
+        "IDDETALLE": "004",
+        "IDPEDIDOS": "CBA-MAY-A01",
+        "IDPRODUCTO": "FER-PEG-BLA-001",
+        "CANTIDAD": "5"
+    },
+    {   
+        "IDDETALLE": "005",
+        "IDPEDIDOS": "CBA-MAY-A01",
+        "IDPRODUCTO": "HER-MAN-BEL-005",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "006",
+        "IDPEDIDOS": "PVB-JUL-A01",
+        "IDPRODUCTO": "FER-ELE-GEL-002",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "007",
+        "IDPEDIDOS": "ASC-SEP-A01",
+        "IDPRODUCTO": "HER-ELE-HLT-008",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "008",
+        "IDPEDIDOS": "EZD-NOV-A01",
+        "IDPRODUCTO": "FER-SIL-GEN-001",
+        "CANTIDAD": "5"
+    },
+    {   
+        "IDDETALLE": "009",
+        "IDPEDIDOS": "EZD-NOV-A01",
+        "IDPRODUCTO": "FER-PEG-PVC-004",
+        "CANTIDAD": "2"
+    },
+    {   
+        "IDDETALLE": "010",
+        "IDPEDIDOS": "EZD-NOV-A01", 
+        "IDPRODUCTO": "FER-TUB-PVC-008",
+        "CANTIDAD": "6"
+    },
+    {   
+        "IDDETALLE": "011",
+        "IDPEDIDOS": "EZD-NOV-A01",
+        "IDPRODUCTO": "FER-CON-TUB-009",
+        "CANTIDAD": "4"
+    },
+    {   
+        "IDDETALLE": "012",
+        "IDPEDIDOS": "EZD-NOV-A01",
+        "IDPRODUCTO": "FER-TUB-PVC-004",
+        "CANTIDAD": "4"
+    },
+    {   
+        "IDDETALLE": "013",
+        "IDPEDIDOS": "FME-ENE-A01",
+        "IDPRODUCTO": "HER-MAN-DE-004",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "014",
+        "IDPEDIDOS": "CBG-MAR-A01",
+        "IDPRODUCTO": "HER-MAN-BEL-003",
+        "CANTIDAD": "2"
+    },
+    {   
+        "IDDETALLE": "015",
+        "IDPEDIDOS": "TMG-MAY-A01",
+        "IDPRODUCTO": "HER-MAN-ABL-008",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "016",
+        "IDPEDIDOS": "MPH-JUL-A01",
+        "IDPRODUCTO": "HER-MAN-HDL-003",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "017",
+        "IDPEDIDOS": "ICH-SEP-A01",
+        "IDPRODUCTO": "HER-MAN-PAL-006",
+        "CANTIDAD": "2"
+    },
+    {   
+        "IDDETALLE": "018",
+        "IDPEDIDOS": "LVG-MAR-A01",
+        "IDPRODUCTO": "CON-MET-SFL-001",
+        "CANTIDAD": "4"
+    },
+    {   
+        "IDDETALLE": "019",
+        "IDPEDIDOS": "PGF-AGO-A01",
+        "IDPRODUCTO": "FER-CAR-TAB-MAD-004",
+        "CANTIDAD": "6"
+    },
+    {   
+        "IDDETALLE": "020",
+        "IDPEDIDOS": "PGF-AGO-A01",
+        "IDPRODUCTO": "HER-MAN-PAL-002",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "021",
+        "IDPEDIDOS": "LSE-OCT-A01",
+        "IDPRODUCTO": "HER-ELE-HLT-008",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "022",
+        "IDPEDIDOS": "SZD-DIC-A01",
+        "IDPRODUCTO": "HER-ELE-HLT-009",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "023",
+        "IDPEDIDOS": "PBE-ENE-A01",
+        "IDPRODUCTO": "HER-ELE-DRM-009",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "024",
+        "IDPEDIDOS": "CVF-ABR-A01",
+        "IDPRODUCTO": "HER-MAN-BEL-003",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "025",
+        "IDPEDIDOS": "TSG-JUN-A01",
+        "IDPRODUCTO": "HER-MAN-HDL-007",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "026",
+        "IDPEDIDOS": "AMH-AGO-A01",
+        "IDPRODUCTO": "HER-MAN-BEL-001",
+        "CANTIDAD": "3"
+    },
+    {   
+        "IDDETALLE": "027",
+        "IDPEDIDOS": "AMH-AGO-A01",
+        "IDPRODUCTO": "HER-MAN-BEL-002",
+        "CANTIDAD": "3"
+    },
+    {   
+        "IDDETALLE": "028",
+        "IDPEDIDOS": "AMH-AGO-A01",
+        "IDPRODUCTO": "HER-MAN-BEL-005",
+        "CANTIDAD": "2"
+    },
+    {   
+        "IDDETALLE": "029",
+        "IDPEDIDOS": "AMH-AGO-A01",
+        "IDPRODUCTO": "HER-MAN-URK-002",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "030",
+        "IDPEDIDOS": "AMH-AGO-A01",
+        "IDPRODUCTO": "FER-SIL-GEN-001",
+        "CANTIDAD": "10"
+    },
+    {   
+        "IDDETALLE": "031",
+        "IDPEDIDOS": "AMH-AGO-A01",
+        "IDPRODUCTO": "FER-ELE-HVO-001",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "032",
+        "IDPEDIDOS": "CMA-OCT-A01",
+        "IDPRODUCTO": "FER-ELE-GEL-001",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "033",
+        "IDPEDIDOS": "PBB-OCT-A01",
+        "IDPRODUCTO": "HER-ELE-CAS-008",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "034",
+        "IDPEDIDOS": "VAC-DIC-A01",
+        "IDPRODUCTO": "FER-PEG-PVC-003",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "035",
+        "IDPEDIDOS": "TSD-FEB-A01",
+        "IDPRODUCTO": "HER-ELE-BOS-009",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "036",
+        "IDPEDIDOS": "GZE-MAR-A01",
+        "IDPRODUCTO": "HER-MAN-BEL-002",
+        "CANTIDAD": "2"
+    },
+    {   
+        "IDDETALLE": "037",
+        "IDPEDIDOS": "SMF-MAY-A01",
+        "IDPRODUCTO": "HER-MAN-BEL-002",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "038",
+        "IDPEDIDOS": "GBG-MAY-A01",
+        "IDPRODUCTO": "FER-CON-TUB-009",
+        "CANTIDAD": "2"
+    },
+    {   
+        "IDDETALLE": "039",
+        "IDPEDIDOS": "MMA-JUL-A01",
+        "IDPRODUCTO": "HER-MAN-PAL-002",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "040",
+        "IDPEDIDOS": "GBB-SEP-A01",
+        "IDPRODUCTO": "HER-MAN-BEL-002",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "041",
+        "IDPEDIDOS": "GBB-SEP-A01",
+        "IDPRODUCTO": "CON-MET-SFL-002",
+        "CANTIDAD": "2"
+    },
+    {   
+        "IDDETALLE": "042",
+        "IDPEDIDOS": "VAC-SEP-A01",
+        "IDPRODUCTO": "HER-ELE-DRM-009",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "043",
+        "IDPEDIDOS": "BSD-NOV-A01",
+        "IDPRODUCTO": "CON-MET-HIE-002",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "044",
+        "IDPEDIDOS": "CZE-ENE-A01",
+        "IDPRODUCTO": "FER-PEG-MET-001",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "045",
+        "IDPEDIDOS": "ESB-DIC-A01",
+        "IDPRODUCTO": "FER-PEG-MET-001",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "046",
+        "IDPEDIDOS": "HVC-DIC-A01",
+        "IDPRODUCTO": "FER-CON-TUB-006",
+        "CANTIDAD": "4"
+    },
+    {   
+        "IDDETALLE": "047",
+        "IDPEDIDOS": "AMK-JUL-A01",
+        "IDPRODUCTO": "FER-CON-TUB-007",
+        "CANTIDAD": "6"
+    },
+    {   
+        "IDDETALLE": "048",
+        "IDPEDIDOS": "PBB-OCT-A02",
+        "IDPRODUCTO": "FER-PEG-PVC-001",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "049",
+        "IDPEDIDOS": "EZD-NOV-A02",
+        "IDPRODUCTO": "FER-SIL-GEN-001",
+        "CANTIDAD": "10"
+    },
+    {   
+        "IDDETALLE": "050",
+        "IDPEDIDOS": "EZD-NOV-A02",
+        "IDPRODUCTO": "FER-PEG-PVC-004",
+        "CANTIDAD": "3"
+    },
+    {   
+        "IDDETALLE": "051",
+        "IDPEDIDOS": "EZD-NOV-A02",
+        "IDPRODUCTO": "FER-TUB-PVC-008",
+        "CANTIDAD": "7"
+    },
+    {   
+        "IDDETALLE": "052",
+        "IDPEDIDOS": "PGF-SEP-A08",
+        "IDPRODUCTO": "FER-CON-TUB-010",
+        "CANTIDAD": "6"
+    },
+    {   
+        "IDDETALLE": "053",
+        "IDPEDIDOS": "PGF-SEP-A08",
+        "IDPRODUCTO": "HER-MAN-PAL-002",
+        "CANTIDAD": "1"
+    },
+    {   
+        "IDDETALLE": "054",
+        "IDPEDIDOS": "PGF-SEP-A08",
+        "IDPRODUCTO": "CON-MET-SFL-001",
+        "CANTIDAD": "6"
+    }
+]
+
