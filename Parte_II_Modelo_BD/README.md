@@ -7,4 +7,5 @@
 El archivo “FERRETERIA.ipynb” tiene la presentación de la base de datos.  
 En la carpeta “TABLAS” están las tablas en formato excell.  
 En la carpeta “JSON” están los archivos JSON de los que parte la base de datos.  
+En la carpeta Database se encuentra la base de datos en formato bd.
 
